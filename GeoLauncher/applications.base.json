@@ -1,0 +1,12 @@
+{
+    "applications":[
+        {
+            "ContentLogo":{
+                "small_188":"",
+                "large_200":""
+            },
+            "DownloadUrl":"",
+            "startCommand":""
+        }
+    ]
+}
