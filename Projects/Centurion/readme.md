@@ -1,5 +1,5 @@
 <div align="center">
-<img id="logo" src="https://raw.githubusercontent.com/GeoStudios/ContentStorage/main/Projects/Centurion/Logo.png" width="750">
+<img id="logo" src="" onerror="()=>{if (location.href.includes(`tree/dev`)){document.getElementById(`user-content-logo`).src = `https://raw.githubusercontent.com/GeoStudios/ContentStorage/main/Projects/Centurion/centurion_dev.png`}else {document.getElementById(`user-content-logo`).src = `https://raw.githubusercontent.com/GeoStudios/ContentStorage/main/Projects/Centurion/centurion_stable.png`}}" width="750">
 </div>
 
 -----------------
