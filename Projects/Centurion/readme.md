@@ -1,3 +1,5 @@
+<html>
+<body>
 <div align="center">
 <img id="logo" src="" onerror="()=>{if (location.href.includes(`tree/dev`)){document.getElementById(`user-content-logo`).src = `https://raw.githubusercontent.com/GeoStudios/ContentStorage/main/Projects/Centurion/centurion_dev.png`}else {document.getElementById(`user-content-logo`).src = `https://raw.githubusercontent.com/GeoStudios/ContentStorage/main/Projects/Centurion/centurion_stable.png`}}" width="750">
 </div>
@@ -43,11 +45,5 @@ If you want to be a project lead for a topic, contact M4x(M4ximumpizza#4712) on 
 ### License
 
 Centurion is licensed under GNU Public License. For more info, please see the [license file](https://github.com/GeoStudios/Centurion/blob/main/License.rtf)
-
-<script>
-    if (location.href.includes("tree/dev")) {
-        document.getElementById("logo").src = "https://raw.githubusercontent.com/GeoStudios/ContentStorage/main/Projects/Centurion/centurion_dev.png"
-    }else {
-         document.getElementById("logo").src = "https://raw.githubusercontent.com/GeoStudios/ContentStorage/main/Projects/Centurion/centurion_stable.png"
-    }
-</script>
+</body>
+</html>
